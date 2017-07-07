@@ -1,5 +1,10 @@
 DEC64: Decimal Floating Point
 
+This is the number format proposed and developed by Douglas Crockford. My goal is to
+port it to WebAssembly and test it's functionality and performance against analogous
+JavaScript computations.
+Maybe I'll call it WEB64?
+
 Douglas Crockford
 douglas@crockford.com
 
